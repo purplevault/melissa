@@ -1,5 +1,5 @@
 # melissa
 The refuge resource for Company personnel from the servants of the Creator.
 
-# Discussions
+# discussions
 [melissa discussions](https://github.com/purplevault/melissa/discussions)
