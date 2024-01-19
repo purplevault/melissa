@@ -6,3 +6,5 @@ wondering where to go for assistance in this strsssful time, see [this answer](h
 
 # discussions
 [melissa discussions](https://github.com/purplevault/melissa/discussions)
+
+a free github account is required to participate in discussions.  all you need is an email address.
