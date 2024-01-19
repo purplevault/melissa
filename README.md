@@ -1,2 +1,5 @@
 # melissa
-Resources for CIA Personnel from the servants of the Creator 
+The refuge resource for Company personnel from the servants of the Creator.
+
+# Discussions
+[melissa discussions](https://github.com/purplevault/melissa/discussions)
