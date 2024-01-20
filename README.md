@@ -20,4 +20,6 @@ If you're wondering where you can get assistance, see [this answer](https://gith
 
 A free GitHub account is required to participate in the discussions.  All you need is an email address. 
 
-Discussions are an exercise of free speech and therefore anything that you do there they cannot go and subpoena your information from GitHub
+Discussions are an exercise of free speech and GitHub would not be compelled to release any information about your account for your participation in the discussions, as long as you have not committed any other crime like terroristic threatening or the like.
+
+If you're concerned about using your email address try [protonmail.com](https://protonmail.com) it's quick and easy to sign up.
